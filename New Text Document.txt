@@ -1,0 +1,168 @@
+https://www.crackias.com/download-question-paper-general-studies-paper-1-upsc-civil-services-preliminary-examination-2018.php
+Logo
+ 
+BlueStacks Support  BlueStacks 4  Popular Articles
+
+Type your question here
+Articles in this section
+Introducing Instance Manager on BlueStacks 4
+MOBA mode on BlueStacks 4
+How to create new keyboard controls for a game on BlueStacks 4
+How to view or edit existing keyboard controls in BlueStacks 4
+Game control guidance on BlueStacks 4
+How can I customize BlueStacks 4 Settings?
+How to use backup and restore on BlueStacks?
+How can I configure my antivirus software to improve BlueStacks performance?
+How do I disable Hyper-V on Windows?
+How can I enable virtualization (VT) on my PC?
+How can I enable virtualization (VT) on my PC?
+NOTE: This article outlines technical steps you can follow for enabling virtualization in your PC's BIOS and improving performance
+
+Virtualization technology permits BlueStacks 3 to run smoother and much faster.
+
+1. How can I find out if my PC supports virtualization?
+
+Download and run a free utility provided by your PC's CPU manufacturer.
+
+a) If your processor is made by Intel, the Intel Processor Identification Utility detects whether your PC supports virtualization (VT-x technology), See b) for AMD processors (AMD-V technology)
+
+Download Intel's virtualization technology detection tool from this link.
+Select the language-specific msi download.
+11.png
+
+Once the utility is installed on your PC, you can run it to identify the status of processor as shown below.
+
+22.png
+
+If the report associates a "Yes" with Intel's virtualization technology, then it is available for your PC.
+
+b) To check the status of AMD-V, AMD users can download AMD V detection Utility
+
+33.JPG
+
+2. How can I enable virtualization, if available but disabled on my PC?
+
+2.1) Access your PC BIOS for Windows 10, 8.1, 8 (UEFI-compliant BIOS)
+
+2.1.1) Windows 10 
+
+1.) Click Start flag button menu and select Settings.
+
+2.) Select Update and Security. 
+
+windows-10-settings.png
+
+3.) Click Recovery on the left hand menu.
+
+4.) Under Advanced start-up, click Restart Now.
+
+windows10-recovery.png
+
+5) Select Troubleshoot
+
+Windows10_Troubleshoot.png
+
+6) Select Advanced Options
+
+Windows10_AdvStartup.png
+
+7) Select UEFI Firmware Settings.
+
+8) Click Restart to restart the system and enter UEFI (BIOS).
+
+2.1.2) Windows 8.1, 8  (UEFI-compliant BIOS)
+
+1) Navigate to the Style UI Charms Bar
+    Shortcut: Windows Key  + "C"
+    Touchscreen: Swipe finger from the right edge of the screen towards the center
+    Mouse: Starting from the top right-hand corner move the mouse along the right edge of the screen
+
+    Click/Touch "Settings"
+
+Win_8.1.1.jpg
+
+
+2. Click / Tab on "Change PC Settings" on the lower right-hand site
+
+Shortcut: Windows Key  + "I"
+
+Win_8.1.2.jpg
+
+3) Select "General" on the left-hand pane
+
+    Select "Restart Now" under the "Advanced Startup" section on the right pane.
+
+    The system will reboot into the Advanced Boot Menu
+
+Win_8.1.3.jpg
+
+4) Select Troubleshoot
+
+Win_8.1.4.jpg
+
+5) Select Advanced Options
+
+Win_8.1.5.jpg
+
+6) Select "UEFI Firmware Settings" and select "Restart" on the following prompt.
+
+    Windows will now initiate the BIOS. 
+
+Win_8.1.6.jpg
+
+2.2) Enter the PC BIOS
+
+Power ON or restart your PC
+
+NOTE: Many of the steps below may vary depending upon your motherboard, processor type, chip-set, and OEM. Refer to your the documentation accompanying your PC for the appropriate steps to enter the BIOS.
+
+HP - Illustrated example
+
+While your PC is restarting repeatedly tap Esc key to enter BIOS
+Press the F10 key for BIOS Setup.(Follow the instruction on the screen)
+Press the right arrow key to System Configuration tab, Select Virtualization Technology and then press the Enter key. 
+virt_bios.gif
+
+Select Enabled and press the Enter key.
+Press the F10 key and select Yes and press the Enter key to save changes and Reboot.
+Please follow the appropriate link to enable 'Virtualization Technology' in specified systems,
+
+ 
+
+Lenovo
+
+Dell
+
+Press F2 key at startup BIOS Setup.
+Press the right arrow key to the Advanced tab, Select Virtualization and then press the Enter key.
+Select Enabled and press the Enter key.
+Press the F10 key and select Yes and press the Enter key to save changes and Reboot into Windows.
+Asus
+
+Press F2 key at startup BIOS Setup.
+Press the right arrow key to the Advanced tab, Select Virtualization Technology and then press the Enter key.
+Select Enabled and press the Enter key.
+Press the F10 key and select Yes and press the Enter key to save changes and Reboot into Windows.
+Acer
+
+Press F2 key at startup BIOS Setup.
+Press the right arrow key to System Configuration tab, Select Virtualization Technology and then press the Enter key.
+Select Enabled and press the Enter key.
+Press the F10 key and select Yes and press the Enter key to save changes and Reboot into Windows. 
+ If you have any further questions, please email support at bluestacks dot com . 
+
+Facebook Twitter LinkedIn Google+
+Was this article helpful?
+ 
+3355 out of 4245 found this helpful
+Related articles
+System requirements for BlueStacks 3N
+How do I disable Hyper-V on Windows?
+How can I configure my antivirus software to improve BlueStacks performance?
+Solution for "BlueStacks feels slow"
+What are BlueStacks 3 system requirements?
+Comments
+0 comments
+Article is closed for comments.
+BlueStacks Support
+English (US) 

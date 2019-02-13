@@ -1,0 +1,252 @@
+VFX or Visual Effects are a way of mixing real film shooting with false or animated images. 
+For instance, a movie that shows the hero jumping off the ground and flying into the air, is created using VFX. 
+Almost every single movie these days uses VFX.
+
+VFX (Visual Effects) Plus: Career Course. 
+VFX is the creation of environment and characters in reel-life, 
+which are difficult or impossible to create in real life. 
+With increasing number of Indian movies making use of VFX, it is the coolest and most happening profession currently.
+
+VFX stand for Visual Effects and are basically all processes that manipulate existing live action shots or creating new imagery from scratch. 
+CGI stands for Computer Generated Imagery. 
+Like the name says, all the images that you create on the computer are called CGI.
+
+The Animation industry in India is expected to grow at a greater pace! ... 
+Multimedia & animation is no doubt a good career choice for creative people who want make career in VFX, 
+graphic design, UI design, 3D animation, 2D animation, game designer, layout artists, concept artist, 
+character designer and many more.
+
+The CGI is acronym for Computer Generated Imagery. ... 
+3D animation is a module of CGI that means, 3D Animation is a process that is used where the CGI is meant to be used in 
+conjunction with a motion picture (video, movies etc).
+
+Visual effects (abbreviated VFX) is the process by which imagery is created or manipulated 
+outside the context of a live action shot in film making.
+
+3Ds Max. 3Ds Max is a 3D modeling, rendering and animation application. ...
+Adobe After Effects. Adobe After Effects is the commonly used software for creating visual effects. ...
+Boujou. ...
+Maxon Cinema 4D. ...
+Autodesk Maya. ...
+Mocha. ...
+Nuke. ...
+PFTrack.
+
+Visual Effects (abbreviated VFX) is the processes by which imagery is 
+created or manipulated outside the context of a live action shot in film making.
+
+VFX are digital, made on a computer in post production. 
+SFX are practical (props, make-up, animatronics, pyrotechnical, etc.), made on set during production. 
+You can also mix them up,like shooting a SFX footage and composite it using VFX.
+
+Visual Effects (abbreviated VFX) is the process by which imagery is created or manipulated outside the context of a live action shot in film making.
+
+3ds Max. One of most widely used 3D applications by professionals, and students alike, is "Autodesk 3ds Max". 
+Autodesk actually has a ton of programs for 3D modeling, animation, and special effects,
+ but 3ds Max is optimal for someone who is learning 3D, and wants to take it into a profession.
+
+Green is the go-to because it doesn't match any natural skin tone or hair color, 
+meaning no part of an actor will be edited out through chroma key. 
+When a green costume or prop is essential, a blue screen is often substituted. ... 
+Filmmakers had to use a blue screen for effects shots of the Green Goblin
+
+Compositing is the combining of visual elements from separate sources into single images, often to create the 
+illusion that all those elements are parts of the same scene. 
+Live-action shooting for compositing is variously called "chroma key", "blue screen", "green screen" and other names.
+
+These courses chiefly cover topics like- Animation, Digital Filmmaking, Visual Effects (VFX), 2D and 3D Animation. Duration: 
+Bachelor's Degree programs are UG Degree courses. The course duration is 3 years.
+
+According to the U.S. Bureau of Labor Statistics (BLS), visual effects artists who create special effects and animation using technological tools can be grouped into the category of multimedia artists and animators, 
+for whom the median annual wage was reported as $63,970 in May 2015 (www.bls.gov).
+
+Computer Animation. Creating animations that are synthesized on the computer is the focus of this course. 
+Computer generated lighting and backgrounds are used with original characters developed by students. 
+
+Avid Media Composer and Lightworks are most frequently used for feature films. 
+However, Final Cut Pro 7 has been used to cut many of them. 
+Famously, (in editing circles, anyway) Walter Murch cut Cold Mountain on it. 
+
+The visual scenes may be dynamic or static and may be two-dimensional (2D), though the term "CGI" is most commonly used 
+to refer to 3D computer graphics used for creating scenes or special effects in films and television. ... 
+Computer graphics software is used to make computer-generated imagery for films, etc.
+FCP X, the new version of the software, hasn't gained much traction yet, but it continues to improve.
+Computer animation production techniques are used to create a short animation project.
+
+All you need to know is right here.
+Traditional Animation. (2D, Cel, Hand Drawn)
+2D Animation. (Vector-Based)
+3D Animation. (CGI, Computer Animation)
+Motion Graphics. (Typography, Animated Logos)
+Stop Motion. (Claymation, Cut-Outs)
+
+The first animated projection (screening) was created in France, by Charles-Émile Reynaud, who was a French science teacher. 
+Reynaud created the Praxinoscope in 1877 and the Théâtre Optique in December 1888. 
+On 28 October 1892, he projected the first animation in public, Pauvre Pierrot, at the Musée Grévin in Paris.
+
+Rotoscoping is an animation technique that animators use to trace over motion picture footage, frame by frame, 
+to produce realistic action. ... In the visual effects industry, rotoscoping is the technique of manually creating a matte 
+for an element on a live-action plate so it may be composited over another background.
+
+Poser (Smith Micro Software)
+3ds Max (Autodesk) Arguably the iPhone equivalent of the 3D animation industry, it has been – and still is – 
+impressively ubiquitous in all 3D markets, and is arguably still the king of the competition. ...
+Maya (Autodesk) ...
+Cinema 4D (Maxon)
+
+VFX: Visual Effects and SFX: Special Effects, often seem to be the same. 
+Especially the people who do not have any knowledge about the field. However, they both are different
+ processes and require different skills as well. 
+VFX generally comes into the picture in the during the post-production of a film/TV, etc.
+
+A visual effects editor, also known as VFX editor, is the person who is overseeing, and responsible for all the visual 
+effects in a production. The visual effects editor must have excellent communication skills, 
+as the job requires the VFX editor to communicate effectively between VFX staff and the editors.
+
+Here I did not include every animation software out there, just top 5 software which useful for 2D animation.
+Anime Studio :- ...
+Adobe Flash :- ...
+Toon Boom :- ...
+CreaToon :- ...
+Adobe Photoshop :- ...
+Maya :- ...
+Lightwave :- ...
+3D Studio Max :-
+
+From Pixelloid Studios - 3D Animation - VFX Course & Training Institute
+Wiztoonz Academy Of Media And Design
+
+
+quora answer-
+
+Animation is one big universe and VFX is another big universe!
+
+I start with animation:
+
+First you need to get the basics. What is animation? -> Sequence of images that when played in a certain order generate the illusion of motion!
+
+When you understood this you need to learn the 12 Principles of animation:
+
+Squash and Stretch
+Anticipation
+Staging
+Straght Ahead and Pose to Pose
+Follow Through and Overlapping Action
+Slow in Slow Out
+Arcs
+Secondary Action
+Timing
+Exaggeration
+Solid Drawing
+Appeal
+Where to learn those principles?
+
+Get these 2 books:
+
+The Animator's Survival Kit (see also: The Animator's Survival Kit Animated)
+The Illusion of Life: Disney Animation
+Those are the MUST HAVE books for animators. Also like already mentioned there are online resources like Digital-Tutors / The Gnomon Workshop / JRA | Tutorials and many others, where you can do tutorials for almos any kind of 3D software.
+
+Other useful books are:
+
+Acting for Animators
+Stop Staring: Facial Modeling and Animation Done Right
+Timing for Animation
+For 3D-animation you do not need to be able to draw but it can be very helpful. A lot of professional 3d-Animator do small thumbnails of what they want to animate, to get ideas, and see if the idea can work. But in the end most of them will record them self acting out the scene to get video references. So I would suggest you get a webcam/go-pro/iphone whatever and start recording your self or objects you want to animate to get a feeling for how things move. On youtube you also find all sorts of video references.
+
+When you start reading one of those books you will need to do some practice. So getting basic knowledge of the 3D-software that you want to learn is a must, and then you can start with some basic exercises. If you have no clue what to animate, here some inspiration:
+
+51 Great Animation Exercises to Master
+
+What sofware to use?
+
+I would suggest Maya for the simple reason that in the majority of the big VFX studios Maya is like the standard 3d-software. Studios like Disney/Pixar/Sony Animation/Dreamworks have there in house software, but once you learned a package like Maya and you know how to animate, you will have no problems to animate in any other software. If you know how to animate, the software becomes second nature.
+
+If you do not have access to Maya start with Blender. It is for free and is pretty powerful.
+
+If you want to animate in 3D you will need some free rigs to do some animation. You can find a lot of good and FREE animation rigs here (obviously you need to download a rig that works with the 3d software you are using):
+
+Animation Buffet
+Maya rigs, maya character rigs, free maya rigs
+Free Animation Rig
+Maya rigs - Computer Graphics & Digital Art Community for Artist: Job, Tutorial, Art, Concept Art, Portfolio
+When you reach a level that you feel pretty confident about your animation skills I would try to participate to the monthly challenge on www.11secondclub.com. Every month they post an audio line that is 11 seconds long. You have the hole month time to animate and then upload your result. Then there will be a voting from everybody and that will decide the monthly winner. It is a great way to get feedback from others, learn from others and also see where you stand compared to other animators. Winning is not the important part here.
+
+I think that should get you started for the animation part.
+
+What about VFX?
+
+Well VFX is a bit of a generic term. that basically involves everything else (and includes also animation). I guess that you want to go into the 3D part of VFX. That includes things like modeling/shading/lighting/rendering/rigging/simulation and so on.
+
+If you are not sure what you want to do I would subscribe to 1 month free trial at Digital-Tutors and watch the videos under VFX -> CG101 and then continue with the “Learning Path” that interests you the most. If you find the site useful you should subscribe, it is not really expensive and you have tons of great material to work with.
+
+You can find also a lot of free tutorials online on pages like:
+
+3dtota.com
+ZClassroom - ZBrush Training from the Source
+Free and Open 3D Creation Software
+cgmeetup.net
+Or just use google! =)
+
+When you start to get the basics down for what interests you more, and start doing your own small projects, share it on pages like:
+
+CGSociety
+3dtotal.com
+cgmeetup.net
+Great way of getting feedback and learn from others.
+
+Hope that helps you to get things started!
+
+This VFX and Flim Editing course is designed in Fly High Animation for the learners who would like to either enter a career 
+in Visual Effects or create their own visual effects at home. This course will teach you what you need to know to land a job as a 
+Digital Compositor as well as cover the fundamentals of compositing for those looking to add effects to their own videos or films.
+
+
+Digital Composting is a vast and extensive subject and it can be hard for those starting out to know what areas they 
+should be proficient in to make it in the industry. It doesn't need to be overwhelming and difficult. I will show you what
+ is important to know and what you can learn on the job. This course will make you train on the core basics and skills that 
+employers are looking for when hiring a new compositor. 
+Here you will learn what you need to get your foot in the door.
+
+Mr. Venugopal, I know as a parent you will be worried about his job security and future. But if this is something he wants to do then please don't persuade him to do something else.
+
+Before answering your question I would like to mention that the names of these training centres below are by no means anyway connected or related to me and I am not promoting or defaming any institutes - whatever I am writing is my personal opinion and from experience.
+
+DSK Supinfocom - expensive, but they have an amazing track record
+Animaster
+Indian Institute of Design & Animation
+National Institute of Design
+Industrial Design Centre (IDC)
+Birla Institute of Technology
+Frameboxx Animation
+Picasso Animation College
+Now from a personal experience I Would also add that - in India VFX education isn't that great (this is in a general sense, not specifically targeting anyone), this is simply because of the lack of infrastructure, proper course structure, dedicated faculties (I am sure I am going to get some negative comments on this but that's simply the truth - a simple proof to this is comparing the output generated by our students here and students abroad - even China). However this is changing.
+
+Please try avoiding short term course. And also keep these points in mind:-
+
+This is a expensive industry - I.E the workstation and study materials
+No one cares about your degree or qualification, your work comes first and then your attitude in a team, which speaks for itself and determine how you grow.
+Drawing skills are good to have, but not compulsory contrary to everyone's belief. A good craftsman doesn't necessarily need to be a good animator or a say a compositor.
+It takes time to create good work and you need good work to land in a good company. Unlike other industry "recommendations" will not work. It might get you to a door step, you job depends on your show-reel.
+Its a good thing that your son knows Python, as both artistic and technical skill combo is highly sought after in the industry.
+The industry is small and extremely competitive.
+India is still growing when it comes to VFX
+Colleges will not provide everything, in fact it cannot - so do not rely on a teacher or an institute too much - they can only do so much for you. You need to push yourself and take responsibility in your on research & development.
+Contrary to a famous belief that VFX is easy, it is not. And the job doesn't get done with a push buttons on a computer. Its as difficult as any other industry and at times even more, sometimes very taxing in even from an emotional sense.
+Well I hope this helps you take a decision. Please do a bit of research and ask around before joining any college, may be even a counselling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
